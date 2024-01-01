@@ -5,5 +5,5 @@
 - For ensemble models, stationarized and rollingly sliced time series for ARIMA, with its predictions for creating 18 features 
 - Results. Further processed the features, tuned parameters rollingly and selected the best model: GBDT, r^2 = 0.9246. Improved data utilization and obtained accurate prediction on small samples
 
-![a]("readme_img/a.png")
-![b]("readme_img/b.png")
+![a](readme_img/a.png)
+![b](readme_img/b.png)
